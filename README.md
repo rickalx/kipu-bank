@@ -20,6 +20,12 @@ Este contrato sigue buenas prácticas modernas de seguridad:
 
 ---
 
+## Contrato Desplegado y verificado
+
+[KipuBank](https://sepolia.etherscan.io/address/0x410d03BEE80Db06c8373dB08Df09cAB3D4F334A4#code)
+
+---
+
 ## 🚀 Despliegue con Remix IDE
 
 ### Pasos
